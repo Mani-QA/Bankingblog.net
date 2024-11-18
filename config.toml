@@ -3,8 +3,8 @@ baseURL = "https://your-site-name.netlify.app/"
 languageCode = "en-us"
 title = "Banking Blog"
 theme = "site_theme"
+uglyURLs = true
 
 [permalinks]
 posts = "/:slug.html"
 
-uglyURLs = true
