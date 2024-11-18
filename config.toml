@@ -6,3 +6,5 @@ theme = "site_theme"
 
 [permalinks]
 posts = "/:slug.html"
+
+uglyURLs = true
