@@ -1,0 +1,6 @@
+
+baseURL = "https://your-site-name.netlify.app/"
+languageCode = "en-us"
+title = "Banking Blog"
+theme = ""
+    
