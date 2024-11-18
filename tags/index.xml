@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Banking Blog</title>
-    <link>https://your-site-name.netlify.app/tags/</link>
+    <link>https://your-site-name.netlify.app/tags.html</link>
     <description>Recent content in Tags on Banking Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>

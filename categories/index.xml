@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Banking Blog</title>
-    <link>https://your-site-name.netlify.app/categories/</link>
+    <link>https://your-site-name.netlify.app/categories.html</link>
     <description>Recent content in Categories on Banking Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
